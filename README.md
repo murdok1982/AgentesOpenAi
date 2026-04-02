@@ -108,3 +108,18 @@ Dale contexto de negocio y una directiva clara:
 * “diseñame un sistema multi-agente”
 
 El agente construye la base conceptual y técnica de extremo a extremo: **arquitectura + código + despliegue.**
+
+---
+
+## 📚 Otros Agentes en este Repositorio
+
+A continuación se listan otros asistentes de IA especializados disponibles en este repositorio:
+
+* [**Diplomacia Global by Gustavo Lobato**](README-Diplomacia-Global.md): Asistente experto en diplomacia, relaciones internacionales, análisis geopolítico y redacción diplomática.
+* [**CryptoSage**](README-CryptoSage.md)
+* [**Cyber Industrial Expert**](README-Cyber-Industrial-Expert.md)
+* [**Cyber Intelligence Analyst**](README-Cyber-Intelligence-Analyst.md)
+* [**ForensicMaster AI**](README-ForensicMaster-AI.md)
+* [**Hack4r Kali Linux**](README-Hack4r-Kali-Linux.md)
+* [**Reversing Expert**](README-Reversing-Expert.md)
+* [**Windows Admin Pro**](README-Windows-Admin-Pro.md)
